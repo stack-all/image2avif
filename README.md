@@ -10,17 +10,17 @@ English &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH.md)
 
 </div>
 
-## ✨Features
+## ✨ Features
 
 - 🚪 Easy to get start. Just upload your images and wait for results!
 - 🚀 AVIF format is the next-generation for image. It could reduce file sizes by 20-90%.
 - ☁️ Use [`Github Action`](https://github.com/stack-all/image2avif/actions) to process images so that the client doesn't have to bear the heavy conversion.
 
-## 🔧Usage
+## 🔧 Usage
 
 Just upload pictures(`.jpg`, `.png`, `.jpeg`) to the root of `main` branch. Action would automatically convert them to AVIF format and put them under `output` folder in `main` branch and the root of `output` branch
 
-## 🛡jsDelivr URL
+## 🛡 jsDelivr URL
 
 You could use [`jsDelivr`](https://www.jsdelivr.com/) as CDN for converted images and the URLs would be like this
 
@@ -49,3 +49,9 @@ https://gcore.jsdelivr.net/gh/stack-all/image2avif@main/output/new-folder-1.avif
 ```
 
 as [`Gcore`](https://gcore.com/) CDN URL.
+
+## 🙏 Credit
+
+- [`ImageMagick`](https://github.com/ImageMagick/ImageMagick), a powerful and open-source image processing tool.
+- [`Github Action`](https://github.com/features/actions), which provide the computing source and CI/CD platform for this project.
+- [`VSCodium`](https://github.com/VSCodium/vscodium), a community-driven and freely-licensed binary distribution of VS Code.
