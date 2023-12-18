@@ -36,7 +36,7 @@ https://gcore.jsdelivr.net/gh/[username]/[repo]@[branch]/[path]
 https://testingcf.jsdelivr.net/gh/[username]/[repo]@[branch]/[path]
 ```
 
-例如， 假设你想获取 [`stack-all/image2avif`](https://github.com/stack-all/image2avif) 库中的 `new-folder-1.avif` 的加速网址，你可以使用：
+例如，假设你想获取 [`stack-all/image2avif`](https://github.com/stack-all/image2avif) 库中的 `new-folder-1.avif` 的加速网址，你可以使用：
 
 ```text
 https://testingcf.jsdelivr.net/gh/stack-all/image2avif@main/output/new-folder-1.avif
