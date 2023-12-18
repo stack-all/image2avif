@@ -53,5 +53,6 @@ as [`Gcore`](https://gcore.com/) CDN URL.
 ## 🙏 Credit
 
 - [`ImageMagick`](https://github.com/ImageMagick/ImageMagick), a powerful and open-source image processing tool.
-- [`Github Action`](https://github.com/features/actions), which provide the computing source and CI/CD platform for this project.
 - [`VSCodium`](https://github.com/VSCodium/vscodium), a community-driven and freely-licensed binary distribution of VS Code.
+- [`jsDelivr`](https://www.jsdelivr.com/), A free CDN for open source projects.
+- [`Github Action`](https://github.com/features/actions), which provide the computing source and CI/CD platform for this project.
